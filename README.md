@@ -87,6 +87,13 @@ Just some notes donno where to backup.
 ### ATBCaptcha
 Animated Text-Based Captcha.
 
+See: https://tomato2718.github.io/ATBCaptcha/
+
+### SGRColor
+To make your output more beutiful ;)
+
+See: https://tomato2718.github.io/SGRColor/
+
 ## Contact me
 - Email: `yveschen2718@gmail.com`
 - Discord: `tomato2718`, `tomato#4469`
