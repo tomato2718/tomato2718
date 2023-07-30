@@ -4,7 +4,7 @@
 A Python backend developer aiming to become a full-stack developer, currently learning kubernetes and some frontend techs.
 
 ### As a Gamer
-A hardcore gamer who loves games.
+A gamer loves hardcore games.
 
 Favorite games:
 - Tetris
@@ -93,6 +93,11 @@ See: https://tomato2718.github.io/ATBCaptcha/
 To make your output more beutiful ;)
 
 See: https://tomato2718.github.io/SGRColor/
+
+### LogToolkit
+Set up loggging easier!
+
+See: https://tomato2718.github.io/LogToolkit/
 
 ## Contact me
 - Email: `yveschen2718@gmail.com`
