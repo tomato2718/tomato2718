@@ -82,7 +82,9 @@ Just a random guy on the internet :P
 
 ## My Repos
 ### notes
-Just some notes donno where to backup.
+Just some notes donno where to backup. (Written in Traditional Chinese)
+
+See: https://tomato2718.gitbook.io/tomato2718-de-ji-shu-sui-bi/
 
 ### ATBCaptcha
 Animated Text-Based Captcha.
