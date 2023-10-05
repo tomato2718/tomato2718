@@ -1,12 +1,11 @@
 # tomato2718's README.md!
 ## About me
 ### As a Developer
-A Python backend developer aiming to become a full-stack developer, currently learning kubernetes and some frontend techs.
+A Python backend developer aiming to become a full-stack developer.
 
 ### As a Gamer
-A gamer loves hardcore games.
+Love hardcore games.
 
-Favorite games:
 - Tetris
 - Monster Hunter
 - Etrian Odyssey
@@ -25,38 +24,49 @@ Just a random guy on the internet :P
 
 ## My Tech Stack
 ### Frontend
+#### 🤔
 ![Html]
+![CSS]
+![JavaScript]
+
+![React]
+![Next.js]
+![Tailwind CSS]
 ![Bootstrap]
 
-![CSS]
-
-![JavaScript]
+#### 🤏
 ![JQuery]
 
 ### Backend
+#### 👌
 ![Python]
 ![Flask]
+![FastAPI]
 
+#### 🤔
 ![Java]
 
-![Swagger]
-
 ### Database
+#### 🤏
 ![MySQL]
 
 ### DevOps
+#### 👌
+![OpenTelemetry]
+
+#### 🤏
 ![Linux]
 ![CentOS]
 ![Debian]
 ![Alpine]
 
-![Bash]
-
 ![Docker]
 
-![Kubernetes]
+#### 🤔
 
-![Kafka]
+![Bash]
+
+![Kubernetes]
 
 ![Elastic Stack]
 ![Elasticsearch]
@@ -68,26 +78,26 @@ Just a random guy on the internet :P
 
 ![Prometheus]
 
-![OpenTelemetry]
-
 ![Nginx]
 
-### Documenting
-![Markdown]
 
+### Documenting
+#### 👌
+![Markdown]
 ![reStructuredText]
 
 ### Misc
+#### 🤏
 ![R]
 
-## My Repos
+## My Projects
 ### notes
 Just some notes donno where to backup. (Written in Traditional Chinese)
 
 See: https://tomato2718.gitbook.io/tomato2718-de-ji-shu-sui-bi/
 
 ### ATBCaptcha
-Animated Text-Based Captcha.
+Animated Text-Based Captcha, useless :/
 
 See: https://tomato2718.github.io/ATBCaptcha/
 
@@ -107,53 +117,47 @@ See: https://tomato2718.github.io/LogToolkit/
 
 <!-- Links -->
 <!-- Frontend -->
-[Html]: https://img.shields.io/badge/%E2%9D%9A%E2%9D%9A-------gray?style=flat&logo=html5&logoColor=white&label=HTML&labelColor=E34F26
-[CSS]: https://img.shields.io/badge/%E2%9D%9A---------gray?style=flat&logo=css3&logoColor=white&label=CSS&labelColor=%231572B6
-[JavaScript]: https://img.shields.io/badge/%E2%9D%9A---------gray?style=flat&logo=JavaScript&logoColor=white&label=JavaScript&labelColor=F7DF1E
-[JQuery]: https://img.shields.io/badge/%E2%9D%9A---------gray?style=flat&logo=JQuery&logoColor=white&label=JQuery&labelColor=0769AD
-[Bootstrap]: https://img.shields.io/badge/%E2%9D%9A%E2%9D%9A-------gray?style=flat&logo=Bootstrap&logoColor=white&label=Bootstrap&labelColor=%237952B3
+[Html]: https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white
+[CSS]: https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white
+[JavaScript]: https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white
+[JQuery]: https://img.shields.io/badge/JQuery-%230769AD?style=for-the-badge&logo=jquery&logoColor=white
+[Bootstrap]: https://img.shields.io/badge/Bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=white
+[React]: https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=white
+[Next.js]: https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=next.js&logoColor=white
+[Tailwind CSS]: https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white
 
 <!-- Backend -->
-[Python]: https://img.shields.io/badge/%E2%9D%9A%E2%9D%9A%E2%9D%9A%E2%9D%9A%E2%9D%9A-gray?style=flat&logo=Python&logoColor=white&label=Python&labelColor=3776AB
-[Flask]: https://img.shields.io/badge/%E2%9D%9A%E2%9D%9A-------gray?style=flat&logo=Flask&logoColor=white&label=Flask&labelColor=231F20
-
-[Java]: https://img.shields.io/badge/%E2%9D%9A%E2%9D%9A-------gray?style=flat&logo=Java&logoColor=white&label=Java&labelColor=F89820
-
-[Swagger]: https://img.shields.io/badge/%E2%9D%9A%E2%9D%9A%E2%9D%9A-----gray?style=flat&logo=Swagger&logoColor=white&label=Swagger&labelColor=85EA2D
-
+[Python]: https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white
+[Flask]: https://img.shields.io/badge/Flask-%23231F20?style=for-the-badge&logo=flask&logoColor=white
+[FastAPI]: https://img.shields.io/badge/FastAPI-%23009688?style=for-the-badge&logo=fastapi&logoColor=white
+[Java]: https://img.shields.io/badge/Java-%23F89820?style=for-the-badge&logo=java&logoColor=white
+[Swagger]: https://img.shields.io/badge/Swagger-%2385EA2D?style=for-the-badge&logo=swagger&logoColor=white
 
 <!-- Database -->
-[MySQL]: https://img.shields.io/badge/%E2%9D%9A---------gray?style=flat&logo=MySQL&logoColor=white&label=MySQL&labelColor=4479A1
+[MySQL]: https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white
 
 <!-- DevOps -->
-[Linux]: https://img.shields.io/badge/%E2%9D%9A%E2%9D%9A%E2%9D%9A-----gray?style=flat&logo=Linux&logoColor=white&label=Linux&labelColor=FCC624
-[CentOS]: https://img.shields.io/badge/%E2%9D%9A%E2%9D%9A%E2%9D%9A-----gray?style=flat&logo=CentOS&logoColor=white&label=CentOS&labelColor=262577
-[Debian]: https://img.shields.io/badge/%E2%9D%9A%E2%9D%9A-------gray?style=flat&logo=Debian&logoColor=white&label=Debian&labelColor=A81D33
-[Alpine]: https://img.shields.io/badge/%E2%9D%9A%E2%9D%9A-------gray?style=flat&logo=Alpine%20Linux&logoColor=white&label=Alpine&labelColor=0D597F
-
-[Bash]: https://img.shields.io/badge/%E2%9D%9A%E2%9D%9A-------gray?style=flat&logo=GNU%20Bash&logoColor=white&label=Bash&labelColor=4EAA25
-
-[Docker]: https://img.shields.io/badge/%E2%9D%9A%E2%9D%9A%E2%9D%9A%E2%9D%9A---gray?style=flat&logo=Docker&logoColor=white&label=Docker&labelColor=2496ED
-[Kubernetes]: https://img.shields.io/badge/%E2%9D%9A%E2%9D%9A%E2%9D%9A-----gray?style=flat&logo=Kubernetes&logoColor=white&label=Kubernetes&labelColor=326CE5
-[Kafka]: https://img.shields.io/badge/%E2%9D%9A---------gray?style=flat&logo=Apache%20Kafka&logoColor=white&label=Kafka&labelColor=231F20
-
-[Elastic Stack]: https://img.shields.io/badge/%E2%9D%9A%E2%9D%9A%E2%9D%9A-----gray?style=flat&logo=Elastic&logoColor=white&label=Elastic%20Stack&labelColor=005571
-[Elasticsearch]: https://img.shields.io/badge/%E2%9D%9A%E2%9D%9A%E2%9D%9A-----gray?style=flat&logo=Elasticsearch&logoColor=white&label=Elasticsearch&labelColor=005571
-[Logstash]: https://img.shields.io/badge/%E2%9D%9A%E2%9D%9A-------gray?style=flat&logo=Logstash&logoColor=white&label=Logstash&labelColor=005571
-[Kibana]: https://img.shields.io/badge/%E2%9D%9A%E2%9D%9A%E2%9D%9A-----gray?style=flat&logo=Kibana&logoColor=white&label=Kibana&labelColor=005571
-
-[Grafana]: https://img.shields.io/badge/%E2%9D%9A%E2%9D%9A-------gray?style=flat&logo=Grafana&logoColor=white&label=Grafana&labelColor=F46800
-[Grafana Tempo]: https://img.shields.io/badge/%E2%9D%9A%E2%9D%9A%E2%9D%9A-----gray?style=flat&logo=Grafana&logoColor=white&label=Grafana%20Tempo&labelColor=F46800
-
-[Prometheus]: https://img.shields.io/badge/%E2%9D%9A---------gray?style=flat&logo=Prometheus&logoColor=white&label=Prometheus&labelColor=E6522C
-
-[OpenTelemetry]: https://img.shields.io/badge/%E2%9D%9A%E2%9D%9A%E2%9D%9A%E2%9D%9A---gray?style=flat&logo=OpenTelemetry&logoColor=white&label=OpenTelemetry&labelColor=231F20
-
-[Nginx]: https://img.shields.io/badge/%E2%9D%9A%E2%9D%9A-------gray?style=flat&logo=Nginx&logoColor=white&label=Nginx&labelColor=009639
+[Linux]: https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=white
+[CentOS]: https://img.shields.io/badge/CentOS-%23262577?style=for-the-badge&logo=centos&logoColor=white
+[Debian]: https://img.shields.io/badge/Debian-%23A81D33?style=for-the-badge&logo=debian&logoColor=white
+[Alpine]: https://img.shields.io/badge/Alpine-%230D597F?style=for-the-badge&logo=alpinelinux&logoColor=white
+[Bash]: https://img.shields.io/badge/Bash-%234EAA25?style=for-the-badge&logo=gnu%20bash&logoColor=white
+[Docker]: https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white
+[Kubernetes]: https://img.shields.io/badge/Kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white
+[Kafka]: https://img.shields.io/badge/Kafka-%23231F20?style=for-the-badge&logo=apachekafka&logoColor=white
+[Elastic Stack]: https://img.shields.io/badge/Elastic%20Stack-%23005571?style=for-the-badge&logo=elastic&logoColor=white
+[Elasticsearch]: https://img.shields.io/badge/Elasticsearch-%23005571?style=for-the-badge&logo=elasticsearch&logoColor=white
+[Logstash]: https://img.shields.io/badge/Logstash-%23005571?style=for-the-badge&logo=logstash&logoColor=white
+[Kibana]: https://img.shields.io/badge/Kibana-%23005571?style=for-the-badge&logo=kibana&logoColor=white
+[Grafana]: https://img.shields.io/badge/Grafana-%23F46800?style=for-the-badge&logo=grafana&logoColor=white
+[Grafana Tempo]: https://img.shields.io/badge/Grafana%20Tempo-%23F46800?style=for-the-badge&logo=grafana&logoColor=white
+[Prometheus]: https://img.shields.io/badge/Prometheus-%23E6522C?style=for-the-badge&logo=prometheus&logoColor=white
+[OpenTelemetry]: https://img.shields.io/badge/OpenTelemetry-%23231F20?style=for-the-badge&logo=opentelemetry&logoColor=white
+[Nginx]: https://img.shields.io/badge/Nginx-%23009639?style=for-the-badge&logo=nginx&logoColor=white
 
 <!-- Documenting -->
-[Markdown]: https://img.shields.io/badge/%E2%9D%9A%E2%9D%9A%E2%9D%9A%E2%9D%9A%E2%9D%9A-gray?style=flat&logo=Markdown&logoColor=white&label=Markdown&labelColor=231F20
-[reStructuredText]: https://img.shields.io/badge/%E2%9D%9A%E2%9D%9A%E2%9D%9A%E2%9D%9A---gray?style=flat&logo=restructuredtext&logoColor=white&label=reStructuredText&labelColor=231F20
+[Markdown]: https://img.shields.io/badge/Markdown-%23231F20?style=for-the-badge&logo=markdown&logoColor=white
+[reStructuredText]: https://img.shields.io/badge/reStructuredText-%23231F20?style=for-the-badge&logo=restructuredtext&logoColor=white
 
 <!-- Misc -->
-[R]: https://img.shields.io/badge/%E2%9D%9A---------gray?style=flat&logo=R&logoColor=white&label=R&labelColor=276DC3
+[R]: https://img.shields.io/badge/R-%23276DC3?style=for-the-badge&logo=r&logoColor=white
