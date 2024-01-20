@@ -3,6 +3,7 @@
 ## About me
 
 A python engineer love hardcore games, sometimes dabble in frontend and infra tasks.
+
 Enjoys designing readable, maintainable codes, and always passionate about learning new techs ; )
 
 ### Language
