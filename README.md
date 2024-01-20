@@ -1,26 +1,16 @@
 # tomato2718's README.md!
+
 ## About me
-### As a Developer
-A Python backend developer aiming to become a full-stack developer.
 
-### As a Gamer
-Love hardcore games.
-
-- Tetris
-- Monster Hunter
-- Etrian Odyssey
-- Fire Emblem
-- Pokemon
-- Super Smash Bros
+A python engineer love hardcore games, sometimes dabble in frontend and infra tasks.
+Enjoys designing readable, maintainable codes, and always passionate about learning new techs ; )
 
 ### Language
+
 - **Traditional Chinese:** 👌
 - **Simplified Chinese:** 👌
 - **English:** 🤔
 - **Japanese:** 🤏
-
-### TL;DR
-Just a random guy on the internet :P
 
 ## My Tech Stack
 ### Frontend
