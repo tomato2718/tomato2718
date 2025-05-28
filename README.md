@@ -2,14 +2,13 @@
 
 ## About me
 
-A backend engineer love hardcore games, sometimes dabble in frontend and infra tasks.
+A backend engineer also a hardcore gamer, sometimes dabble in frontend and infra tasks.
 
 Enjoys designing readable, maintainable codes, and always passionate about learning new techs ; )
 
 ### Language
 
-- **Traditional Chinese:** 👌
-- **Simplified Chinese:** 👌
+- **Mandarin:** 👌
 - **English:** 🤔
 - **Japanese:** 🤏
 
