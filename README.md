@@ -12,8 +12,4 @@ Enjoys designing readable, maintainable codes, and always passionate about learn
 - **English:** 🤔
 - **Japanese:** 🤏
 
-## Contact me
-
-- Email: `yveschen2718@gmail.com`
-
 <!-- Links -->
